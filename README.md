@@ -7,7 +7,7 @@ This project was completed as part of the **CodeAlpha** Machine Learning Interns
 
 ## 📽️ Project Demonstration
 You can watch the full video explanation of this project here:  
-👉 **[Project Video Link]([https://youtu.be/5ZFyN7vDmKk?si=rbuSiWdip-pUDzSw])**
+👉 **[Project Video Link](https://youtu.be/5ZFyN7vDmKk?si=rbuSiWdip-pUDzSw)**
 
 ## Problem Statement
 The goal is to classify loan applicants into two categories:
